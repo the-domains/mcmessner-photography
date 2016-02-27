@@ -4,7 +4,7 @@
         <description><![CDATA[Pictures from Around the World]]></description>
         <link>https://thegrid.ai/mcmessner-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 19:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2016 19:21:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mcmessner-photography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[India]]></title>
@@ -15,10 +15,10 @@
         </item>
         <item>
             <title><![CDATA[Bhutan]]></title>
-            <description><![CDATA[<article><h1>Bhutan</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b74b23ab7dc601818a94bfee0db32b778bda0b9f.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Bhutan</h1><p>Watching</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b74b23ab7dc601818a94bfee0db32b778bda0b9f.jpg"></article>]]></description>
             <link>https://thegrid.ai/mcmessner-photography/bhutan/index.html</link>
             <guid isPermaLink="false">b585ec0d-9a31-4ed6-808f-e6c269d1368e</guid>
-            <pubDate>Sat, 27 Feb 2016 19:18:04 GMT</pubDate>
+            <pubDate>Sat, 27 Feb 2016 19:21:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
