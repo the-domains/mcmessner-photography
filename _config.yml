@@ -1,0 +1,28 @@
+name: mcmessner Photography
+favicon: null
+layout_spectrum: 0.0889487829990685
+typography_spectrum: 0.302030946360901
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7853091286960989
+  lightness: 0.03259386238642037
+  saturation: 0.7867174777202308
+  rhythmicContrast: 0.609270635060966
+purpose: []
